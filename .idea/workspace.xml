@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa739347-8bd4-4071-a539-9d6531954dea" name="Default Changelist" comment="" />
+    <list default="true" id="fa739347-8bd4-4071-a539-9d6531954dea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -99,14 +104,32 @@
       <workItem from="1587922713712" duration="655000" />
       <workItem from="1587957986934" duration="5241000" />
       <workItem from="1587999967864" duration="2529000" />
-      <workItem from="1588072555257" duration="934000" />
+      <workItem from="1588072555257" duration="2943000" />
+      <workItem from="1588162588661" duration="72000" />
+      <workItem from="1588183192213" duration="46000" />
     </task>
+    <task id="LOCAL-00001" summary="abyl">
+      <created>1588073539343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588073539343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="abyl" />
+    <option name="LAST_COMMIT_MESSAGE" value="abyl" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="111" key="#Project_Structure" timestamp="1588073542726">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="111" key="#Project_Structure/0.40.1536.824@0.40.1536.824" timestamp="1588073542726" />
     <state x="574" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1587919739230">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
@@ -120,6 +143,10 @@
       <screen x="0" y="43" width="1536" height="821" />
     </state>
     <state x="883" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.43.1536.821@0.43.1536.821" timestamp="1587309004431" />
+    <state x="388" y="45" key="CommitChangelistDialog2" timestamp="1588073537914">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="388" y="45" key="CommitChangelistDialog2/0.40.1536.824@0.40.1536.824" timestamp="1588073537914" />
     <state x="549" y="209" key="FileChooserDialogImpl" timestamp="1587207348867">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
@@ -168,19 +195,27 @@
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.40.1536.824@0.40.1536.824" timestamp="1587963316120" />
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.43.1536.821@0.43.1536.821" timestamp="1586712856916" />
-    <state x="277" y="95" key="SettingsEditor" timestamp="1588073488442">
+    <state x="277" y="95" key="SettingsEditor" timestamp="1588183220995">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="277" y="95" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1588073488442" />
-    <state x="-6" y="40" width="781" height="821" key="com.intellij.ide.util.TipDialog" timestamp="1588072733852">
+    <state x="277" y="95" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1588183220995" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1588073559883">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="-6" y="40" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1588072733852" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1588073559883" />
+    <state x="-6" y="40" width="781" height="821" key="com.intellij.ide.util.TipDialog" timestamp="1588183192428">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="-6" y="40" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1588183192428" />
     <state x="-6" y="43" width="781" height="821" key="com.intellij.ide.util.TipDialog/0.43.1536.821@0.43.1536.821" timestamp="1587922724744" />
     <state x="498" y="347" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586712543175">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
     <state x="498" y="347" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.43.1536.821@0.43.1536.821" timestamp="1586712543175" />
+    <state x="209" y="73" key="new project wizard" timestamp="1588183240001">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.40.1536.824@0.40.1536.824" timestamp="1588183240001" />
     <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1585823741338">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
