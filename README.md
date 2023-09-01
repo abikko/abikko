@@ -1,7 +1,7 @@
 ### Currently Flutter developer at Aloteq Qazaq.
 <h4>Stack:</h4>
 <ul>
-<li>MV patterns(MVP,MVVM,MVC)</li>
+<li>MV patterns(MVP,MVVM,MVC,MVI)</li>
 <li>Flutter</li>
 <li>Design patterns</li>
 <li>Dart</li>
