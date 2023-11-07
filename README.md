@@ -1,9 +1,9 @@
-### Currently Flutter developer at Aloteq Qazaq.
+### Currently Flutter developer.
 <h4>Stack:</h4>
 <ul>
 <li>MV patterns(MVP,MVVM,MVC,MVI)</li>
 <li>Flutter</li>
-<li>Design patterns</li>
+<li>Design patterns, Clean Architecture, KISS, DRY, SOLID</li>
 <li>Dart</li>
 <li>Hive, Dio, BLoC, Riverpod, Cubit, Drift</li>
 </ul>
